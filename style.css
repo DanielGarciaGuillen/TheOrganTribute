@@ -9,6 +9,22 @@
 .component{
   padding-top: 50px;
 }
+.line1{
+  background-color: black;
+  padding-top: 10px;
+  width: 50%;
+  margin: 0 auto;
+}
+.line2{  
+  padding-top: 10px;
+  }
+.line3{
+  background-color: black;
+  padding-top: 10px;
+  width: 30%;
+  margin: 0 auto;
+
+}
 .player{
   display: block;
   margin: 0 auto;
