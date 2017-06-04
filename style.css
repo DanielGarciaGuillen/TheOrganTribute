@@ -2,7 +2,7 @@
   text-align: center;
    }
 #headerphoto {
-  width: 500px;
+  width: 50%;
   display: block;
   margin: 0 auto;
 }
@@ -34,12 +34,13 @@
     padding-left: 10px;
 }
 .bio{ 
- width: 950px;
+ width: 70%;
  margin: 0 auto;
  }
 .bio p{
   text-align: left;
-  font-size: 8vw;  
+  font-size: 18px;
+ 
 }
 .album{
   width: 300px;
@@ -55,9 +56,9 @@
 .fadein img { 
   position:absolute; 
   left:0; 
-  top:0;   g
+  top:0;   
   border-radius: 7px;
-   width:500px; 
+  width:500px; 
   height:332px;
 }
 
@@ -77,5 +78,6 @@ h3{
   color: white;
   margin-bottom: 10px;
 }
+
 
 
