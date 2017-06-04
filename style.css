@@ -36,10 +36,10 @@
 .bio{ 
  width: 950px;
  margin: 0 auto;
- font-size: 18px;  
-}
+ }
 .bio p{
   text-align: left;
+  font-size: 8vw;  
 }
 .album{
   width: 300px;
