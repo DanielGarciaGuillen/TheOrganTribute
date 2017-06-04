@@ -29,10 +29,7 @@
   display: block;
   margin: 0 auto;
 }
-.pad0{
-    margin-right: -18px;
-    padding-left: 10px;
-}
+
 .bio{ 
  width: 70%;
  margin: 0 auto;
@@ -43,14 +40,14 @@
  
 }
 .album{
-  width: 20em;
-  height: 20em;  
+  width: 18em;
+  height: 18em;  
 }
 .fadein { 
   margin: 0 auto;
   position:relative; 
-  width:30em; 
-  height:25em;
+  width:25em; 
+  height:20em;
   }
 
 .fadein img { 
@@ -58,8 +55,8 @@
   left:0; 
   top:0;   
   border-radius: 7px;
-  width:30em; 
-  height:25em;
+  width:25em; 
+  height:20em;
 }
 
 h3{
