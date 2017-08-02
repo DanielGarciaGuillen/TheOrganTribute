@@ -112,8 +112,7 @@ h3 {
 .video-center {
     max-width: 840px;
     max-height: 472px;
-    margin-right: auto;
-    margin-left: auto;
+    margin: 0 auto;
 }
 
 .parallax { 
